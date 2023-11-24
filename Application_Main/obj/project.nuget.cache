@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdqc3rTRJB6N519wYxkTXSzu/vuX8ekDo/V/bGHqCiZ56tI+bd+W38ALVJ2YdiPZnrd02fy/Uhrflh8sZP9Quw==",
+  "dgSpecHash": "UvsJSqRkl+6lVBke+P+3NBY07BI/ONYfG5CYSxWRypbX/o/MAeZ8L0hUQBFyZFTJHwbpcXcOnKEyCiVeQmOUcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khai5\\OneDrive\\Tài liệu\\GitHub\\QuanlyDuAn\\QuanlyDuAn\\Application_Main\\QuanLyDuAnBDS.csproj",
+  "projectFilePath": "C:\\Users\\khai5\\OneDrive\\Tài liệu\\GitHub\\QuanlyduanCB\\Application_Main\\QuanLyDuAnBDS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khai5\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\khai5\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -31,7 +31,7 @@ namespace Application
             lg.ShowDialog();
             this.Close();
         }
-       
+
         private void btn_Dk_Click(object sender, EventArgs e)
         {
             string? check = con.KiemtraMk(txt_TenDn.Text, txt_Mk.Text, txt_XnMk.Text);
@@ -56,7 +56,7 @@ namespace Application
                 MessageBox.Show("Thiếu dữ liệu");
                 throw;
             }
-          
+
         }
 
 

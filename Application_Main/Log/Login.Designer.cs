@@ -80,14 +80,13 @@
             lb_TB.ForeColor = Color.OrangeRed;
             lb_TB.Image = QuanLyDuAnBDS.Properties.Resources.banner2;
             lb_TB.Name = "lb_TB";
-            lb_TB.Hide();
             // 
             // Login
             // 
             AutoScaleMode = AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
             AutoValidate = AutoValidate.Disable;
-            BackgroundImage = QuanLyDuAnBDS.Properties.Resources.banner2;
+            BackgroundImage = QuanLyDuAnBDS.Properties.Resources.banner;
             Controls.Add(lb_TB);
             Controls.Add(txt_Mk);
             Controls.Add(lb_MK);

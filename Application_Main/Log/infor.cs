@@ -47,12 +47,12 @@ namespace QuanLyDuAnBDS.Log
         }
         private void btn_DK_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void infor_Load(object sender, EventArgs e)
         {
-            
+
         }
     }
 }
